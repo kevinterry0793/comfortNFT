@@ -242,7 +242,7 @@ const SingleStake: React.FC = () => {
       isOpen={stakeModalIsOpen}
       onDismiss={handleDismissStakeModal}
       onStake={handleOnStake}
-      label={'STRN'}
+      label={'COMF'}
       fullBalance={strnTokenBalance}
       maxTimestamp={endTime}
     /> : null
@@ -253,7 +253,7 @@ const SingleStake: React.FC = () => {
       <Card>
         <Container size="sm">
           <Spacer />
-          <StyledSubtitle>Stake STRN</StyledSubtitle>
+          <StyledSubtitle>Stake COMF</StyledSubtitle>
         </Container>
         <CardIcon>🧬</CardIcon>
         <CardContent>

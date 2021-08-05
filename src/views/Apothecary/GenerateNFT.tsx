@@ -23,7 +23,7 @@ const GenerateNFT = () => {
             <StyledTitle>Generate NFT</StyledTitle>
             <Spacer size={"sm"} />
             <StyledBlankNFT />
-            <GenFee>420 COFM Fee to Generate Each NFT</GenFee>
+            <GenFee>420 COMF Fee to Generate Each NFT</GenFee>
             <StyledUserBalance>COMF Balance: {strnBalance}</StyledUserBalance>
             <StyledSection>
                 <Spacer size="sm" />

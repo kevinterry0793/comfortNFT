@@ -55,7 +55,7 @@ const Stake: React.FC = () => {
         <PageHeader
           imgSrc=""
           subtitle="One stake per account"
-          title="Stake STRN, earn STXP"
+          title="Stake COMF, earn STXP"
         />
         <Split>
           <SingleStakeCard />
@@ -71,7 +71,7 @@ const Stake: React.FC = () => {
         <Spacer size="md" />
         {showContactMessage && (
           <StyledNotice>
-            <span>There might be an issue with your STRN stake.</span>
+            <span>There might be an issue with your COMF stake.</span>
             <span>Please contact us in discord, see link below.</span>
           </StyledNotice>
         )}
