@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.5f9d0be5.chunk.js": "/static/js/0.5f9d0be5.chunk.js",
+    "main.css": "/static/css/main.7667defc.chunk.css",
+    "main.js": "/static/js/main.6cbf071d.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.e0bd2e5d.js",
+    "static/css/3.8d20d205.chunk.css": "/static/css/3.8d20d205.chunk.css",
+    "static/js/3.148af07c.chunk.js": "/static/js/3.148af07c.chunk.js",
+    "static/js/4.aa7bec15.chunk.js": "/static/js/4.aa7bec15.chunk.js",
+    "static/js/5.cf043d03.chunk.js": "/static/js/5.cf043d03.chunk.js",
+    "static/js/6.1dbfeba1.chunk.js": "/static/js/6.1dbfeba1.chunk.js",
+    "static/js/7.a6ac9420.chunk.js": "/static/js/7.a6ac9420.chunk.js",
+    "static/js/8.01ce2d97.chunk.js": "/static/js/8.01ce2d97.chunk.js",
+    "static/js/9.fa60e8a2.chunk.js": "/static/js/9.fa60e8a2.chunk.js",
+    "static/js/10.a46de5b9.chunk.js": "/static/js/10.a46de5b9.chunk.js",
+    "static/js/11.9d69c086.chunk.js": "/static/js/11.9d69c086.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.d35327cf75c141dfa4901de9fa8014d4.js": "/precache-manifest.d35327cf75c141dfa4901de9fa8014d4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/3.148af07c.chunk.js.LICENSE.txt": "/static/js/3.148af07c.chunk.js.LICENSE.txt",
+    "static/js/5.cf043d03.chunk.js.LICENSE.txt": "/static/js/5.cf043d03.chunk.js.LICENSE.txt",
+    "static/js/6.1dbfeba1.chunk.js.LICENSE.txt": "/static/js/6.1dbfeba1.chunk.js.LICENSE.txt",
+    "static/js/7.a6ac9420.chunk.js.LICENSE.txt": "/static/js/7.a6ac9420.chunk.js.LICENSE.txt",
+    "static/js/8.01ce2d97.chunk.js.LICENSE.txt": "/static/js/8.01ce2d97.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/dk-liquid-embrace.d3709ae6.ttf",
+    "static/media/changeParent.png": "/static/media/changeParent.3fe09fca.png",
+    "static/media/comfortbig.png": "/static/media/comfortbig.0f7de857.png",
+    "static/media/metamask-fox.svg": "/static/media/metamask-fox.c06f3a3e.svg",
+    "static/media/shadyStrainNFT.png": "/static/media/shadyStrainNFT.58828f9b.png",
+    "static/media/wallet-connect.svg": "/static/media/wallet-connect.37f2bc6e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0bd2e5d.js",
+    "static/css/3.8d20d205.chunk.css",
+    "static/js/3.148af07c.chunk.js",
+    "static/css/main.7667defc.chunk.css",
+    "static/js/main.6cbf071d.chunk.js"
+  ]
+}

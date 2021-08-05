@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: local('Montserrat-Regular'), url(fonts/Montserrat-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat-SemiBold';
+  src: local('Montserrat-SemiBold'), url(fonts/Montserrat-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'BigShouldersText-Bold';
+  src: local('BigShouldersText-Bold'), url(fonts/BigShouldersText-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'BigShouldersText-Regular';
+  src: local('BigShouldersText-Regular'), url(fonts/BigShouldersText-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'BigShouldersText-Light';
+  src: local('BigShouldersText-Light'), url(fonts/BigShouldersText-Light.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'colored-crayons';
+  src: local('colored-crayons'), url(fonts/colored-crayons.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'dk-liquid-embrace';
+  src: local('dk-liquid-embrace'), url(fonts/dk-liquid-embrace.ttf) format('truetype');
+}
+
+body {
+  background: #F0E7EA;
+  margin: 0;
+  font-size: 16px;
+  font-family: 'Montserrat-Regular';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 {
+  font-family: 'Gopher';
+  letter-spacing: 3px;
+  font-size: 32px !important;
+}
+
+ h2, h3  {
+  font-family: 'colored-crayons';
+  letter-spacing: 3px;
+}
+
+h4 {
+  font-family: 'colored-crayons';
+  font-size: 14px;
+  color: #B2FAD6;
+  margin: 0;
+  padding: 0;
+
+}
+
