@@ -37,7 +37,6 @@ const WalletButton: React.FC<WalletButtonProps> = (props) => {
       <StyledWalletButton>
         {!account ? (
           <Button
-            onClick={handleUnlockWalletClick}
             size="sm"
             text="Connect Wallet"
           />

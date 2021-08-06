@@ -41,7 +41,7 @@ const BurnOldNfts: React.FC = () => {
             <img
               style={{ paddingBottom: "30px" }}
               src={blankStrainNFT}
-              alt="Blank Strain NFT"
+              alt="Blank Comfort NFT"
               height={DEFAULT_NFT_SIZE}
             />
             {BurnOldNftsNotice}

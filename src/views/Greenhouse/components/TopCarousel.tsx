@@ -74,7 +74,7 @@ const TopCarousel: React.FC = () => {
       {strainNftCollection.length > 0 ? (
         <CarouselDiv>
             {parentOneNftId && parentTwoNftId ? ChangeParentOne : null}
-          <StyledText>Select Strains</StyledText>
+          <StyledText>Select Comfort</StyledText>
             {parentOneNftId && parentTwoNftId ? ChangeParentTwo : null}
         </CarouselDiv>
       ) : null}

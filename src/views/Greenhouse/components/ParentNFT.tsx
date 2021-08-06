@@ -20,7 +20,7 @@ const ParentNFT = ({ nftId }: { nftId: string}) => {
       (
       <NFTCard>
         <StyledImage>
-          <img src={blankStrainNFT} alt="Blank Strain NFT" height={DEFAULT_NFT_SIZE} />
+          <img src={blankStrainNFT} alt="Blank Comfort NFT" height={DEFAULT_NFT_SIZE} />
         </StyledImage>
       </NFTCard>
         )}

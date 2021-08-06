@@ -87,7 +87,7 @@ const FAQ: React.FC = () => {
               question="How does YAM have a treasury?"
               slug="treasury"
             >
-              <span>Every positive rebase, the treasury mints 10% of the rebase amount and sells YAM to the YAM/yUSD Uniswap pool. The yUSD acquired through this action is sent to the treasury which is managed by YAM holders. The current treasury amount can be seen on strainnft.com.</span>
+              <span>Every positive rebase, the treasury mints 10% of the rebase amount and sells YAM to the YAM/yUSD Uniswap pool. The yUSD acquired through this action is sent to the treasury which is managed by YAM holders. The current treasury amount can be seen on Comfortnft.com.</span>
             </Question>
             <Question
               active={activeSlug === "farming"}
@@ -102,7 +102,7 @@ const FAQ: React.FC = () => {
               question="What is the scaling factor?"
               slug="scaling-factor"
             >
-              <span>Because YAM supply is constantly changing due to rebases, it’s hard to keep up with the ever changing supply amount. Strain $STRN provides a scaling factor that you can use which allows you to go from initial Yam v3 supply amount to today’s supply amount.</span>
+              <span>Because YAM supply is constantly changing due to rebases, it’s hard to keep up with the ever changing supply amount. Comfort $COMF provides a scaling factor that you can use which allows you to go from initial Yam v3 supply amount to today’s supply amount.</span>
             </Question>
             <Question
               active={activeSlug === "yusd"}
