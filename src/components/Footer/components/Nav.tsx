@@ -4,7 +4,7 @@ import styled from 'styled-components'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledLink href="#"></StyledLink>
+      <StyledLink href="https://etherscan.io/address/0x10204c1E40b0aD66a48F0AA02D86f98C00883b2c"> Contract Address</StyledLink>
       <StyledLink href="https://t.me/comfortnft">Telegram</StyledLink>
       <StyledLink href="#"></StyledLink>
     </StyledNav>
