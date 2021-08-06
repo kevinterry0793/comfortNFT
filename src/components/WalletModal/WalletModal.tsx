@@ -127,26 +127,26 @@ const WalletModal: React.FC<ModalProps> = ({
           <Box column>
             <FancyValue
               icon="🧬"
-              label="STRN balance"
+              label="COFM balance"
               value={getDisplayBalance(strnTokenBalance)}
             />
             <Spacer />
             <FancyValue
               icon="🍯"
-              label="STXP balance"
+              label="COFMP balance"
               value={getDisplayBalance(stxpTokenBalance)}
             />
           </Box>
           <Box column>
             <FancyValue
               icon={<span role="img" style={{ opacity: 0.5 }} >LP</span>}
-              label="STRN/ETH balance"
+              label="COMF/ETH balance"
               value={formattedStrnLPBalance}
             />
             <Spacer />
             <FancyValue
               icon={<span role="img" style={{ opacity: 0.5 }} >LP</span>}
-              label="STRN/XIOT balance"
+              label="COMFP/XIOT balance"
               value={formattedStrnXiotLPBalance}
             />
           </Box>
@@ -158,20 +158,20 @@ const WalletModal: React.FC<ModalProps> = ({
           <Box column>
             <FancyValue
               icon="🧬"
-              label="Claimable STRN"
+              label="Claimable COMF"
               value={formattedEarnedBalance}
             />
           </Box>
           <Box column>
             <FancyValue
               icon={<span role="img" style={{ opacity: 0.5 }} >LP</span>}
-              label="NFT'd STRN/ETH Tokens"
+              label="NFT'd COMF/ETH Tokens"
               value={formattedStrnEthPoolBalance}
             />
             <Spacer />
             <FancyValue
               icon={<span role="img" style={{ opacity: 0.5 }} >LP</span>}
-              label="NFT'd STRN/XIOT Tokens"
+              label="NFT'd COMF/XIOT Tokens"
               value={formattedStrnXiotPoolBalance}
             />
           </Box>
@@ -190,7 +190,7 @@ const WalletModal: React.FC<ModalProps> = ({
           <Box column>
             <FancyValue
               icon="🧬"
-              label="Staked STRN Tokens"
+              label="Staked COMF Tokens"
               value={formattedTotalStakedStrnBalance}
             />
           </Box>

@@ -300,7 +300,7 @@ const SingleStake: React.FC = () => {
         isOpen={unstakeModalIsOpen}
         onDismiss={handleDismissUnstakeModal}
         onUnstake={handleOnUnstake}
-        label={'STRN'}
+        label={'COMF'}
         fullBalance={withdrawStakeAmount}
         disableUnstaking={true}
       />
