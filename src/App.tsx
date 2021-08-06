@@ -34,6 +34,8 @@ import { StrainNftsProvider } from "contexts/StrainNfts";
 import Gallery from "views/Gallery";
 import { GreenhouseProvider } from "contexts/Greenhouse";
 
+import Page from "./components/Page";
+
 const App: React.FC = () => {
   const [mobileMenu, setMobileMenu] = useState(false);
 
@@ -70,10 +72,16 @@ const App: React.FC = () => {
             <Dispensary />
           </Route> */}
           <Route exact path="/burnoldnfts">
-            <BurnOldNfts />
+            {/* <BurnOldNfts /> */}
+            <Page>
+              <h2>Coming soon !</h2>
+            </Page>
           </Route>
           <Route exact path="/greenhouse">
-            <Greenhouse />
+            {/* <Greenhouse /> */}
+            <Page>
+              <h2>Coming soon !</h2>
+            </Page>
           </Route>
           {/*<Route path="/faq">
             <FAQ />

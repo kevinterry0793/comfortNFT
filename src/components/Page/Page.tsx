@@ -12,8 +12,10 @@ const Page: React.FC = ({ children }) => (
   </StyledPage>
 )
 
+// background-color: #08182E !important;
+
 const StyledPage = styled.div`
-background-color: #08182E !important;`
+background-color: #101317 !important;`
 
 const StyledMain = styled.div`
   align-items: center;
@@ -21,7 +23,7 @@ const StyledMain = styled.div`
   display: flex;
   flex-direction: column;
   min-height: calc(100vh - 144px);
-  padding: ${props => props.theme.spacing[6]}px 0;
 `
+// padding: ${props => props.theme.spacing[6]}px 0;
 
 export default Page

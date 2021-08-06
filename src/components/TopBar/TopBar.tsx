@@ -48,8 +48,9 @@ const StyledLogoWrapper = styled.div`
   }
 `
 
+// background-color: #08182E;
 const StyledTopBar = styled.div`
-background-color: #08182E;`
+background-color: #101317;`
 
 const StyledTopBarInner = styled.div`
   align-items: center;

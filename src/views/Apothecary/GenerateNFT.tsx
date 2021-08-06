@@ -31,12 +31,12 @@ const GenerateNFT = () => {
                     poolId={PoolIds.STRN_ETH}
                     walletBalance={strnEthLpBalance}
                 />
-                <Spacer size="md" />
-                <Spacer size="sm" />
-                <GenerateNftButton
+                {/* <Spacer size="md" />
+                <Spacer size="sm" /> */}
+                {/* <GenerateNftButton
                     poolId={PoolIds.STRN_XIOT}
                     walletBalance={strnXiotLpBalance}
-                />
+                /> */}
             </StyledSection>
         </>
     )

@@ -55,7 +55,7 @@ const Stake: React.FC = () => {
         <PageHeader
           imgSrc=""
           subtitle="One stake per account"
-          title="Stake COMF, earn STXP"
+          title="Stake COMF, earn COMFP"
         />
         <Split>
           <SingleStakeCard />
@@ -64,7 +64,7 @@ const Stake: React.FC = () => {
         <Spacer size="lg" />
         <PageHeader
           imgSrc=""
-          subtitle="Unstaking automatically claims STXP"
+          subtitle="Unstaking automatically claims COMFP"
           title=""
         />
         <Spacer />

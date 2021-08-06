@@ -77,7 +77,7 @@ const Harvest: React.FC = () => {
     <Card>
       <Container size="sm">
         <Spacer />
-        <StyledSubtitle>Earned STXP</StyledSubtitle>
+        <StyledSubtitle>Earned COMFP</StyledSubtitle>
       </Container>
       <CardIcon>🍯</CardIcon>
       <CardContent>
@@ -86,7 +86,7 @@ const Harvest: React.FC = () => {
           column
         >
           <Value value={formattedEarnedBalance} />
-          <Label text="Claimable STXPs" />
+          <Label text="Claimable COMFPs" />
         </Box>
       </CardContent>
       <CardActions>
